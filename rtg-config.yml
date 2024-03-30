@@ -1,2 +1,14 @@
-apiUnderTest: bookstore
+apiUnderTest: geomark
 strategyClassName: NominalAndErrorStrategy
+#  {
+#    "apisUnderTest": [
+#      {
+#        "apiName": "bookstore",
+#        "strategyClassName": "NominalAndErrorStrategy"
+#      },
+#      {
+#        "apiName": "roudyAPI",
+#        "strategyClassName": "AnotherStrategyClassName"
+#      }
+#    ]
+#  }
